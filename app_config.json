@@ -1,0 +1,305 @@
+{
+  "schema_version": "web-1.0",
+  "comfy_url": "http://127.0.0.1:8188",
+  "active_model_preset": 0,
+  "active_loop_preset": 0,
+  "model_presets": [
+    {
+      "name": "Preset 1",
+      "settings": {
+        "unet_name": "",
+        "unet_weight_dtype": "default",
+        "clip_name": "",
+        "clip_type": "qwen_image",
+        "clip_device": "default",
+        "vae_name": "",
+        "width": "",
+        "height": "",
+        "batch_size": 1,
+        "steps": "",
+        "cfg": "",
+        "sampler_name": "",
+        "scheduler": "",
+        "denoise": "",
+        "seed": "",
+        "seed_mode": "",
+        "loras": [
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          }
+        ],
+        "upscale": {
+          "enabled": false,
+          "model_name": "",
+          "scale_by": "",
+          "method": "lanczos"
+        }
+      }
+    },
+    {
+      "name": "Preset 2",
+      "settings": {
+        "unet_name": "",
+        "unet_weight_dtype": "default",
+        "clip_name": "",
+        "clip_type": "qwen_image",
+        "clip_device": "default",
+        "vae_name": "",
+        "width": "",
+        "height": "",
+        "batch_size": 1,
+        "steps": "",
+        "cfg": "",
+        "sampler_name": "",
+        "scheduler": "",
+        "denoise": "",
+        "seed": "",
+        "seed_mode": "",
+        "loras": [
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          }
+        ],
+        "upscale": {
+          "enabled": false,
+          "model_name": "",
+          "scale_by": "",
+          "method": "lanczos"
+        }
+      }
+    },
+    {
+      "name": "Preset 3",
+      "settings": {
+        "unet_name": "",
+        "unet_weight_dtype": "default",
+        "clip_name": "",
+        "clip_type": "qwen_image",
+        "clip_device": "default",
+        "vae_name": "",
+        "width": "",
+        "height": "",
+        "batch_size": 1,
+        "steps": "",
+        "cfg": "",
+        "sampler_name": "",
+        "scheduler": "",
+        "denoise": "",
+        "seed": "",
+        "seed_mode": "",
+        "loras": [
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          }
+        ],
+        "upscale": {
+          "enabled": false,
+          "model_name": "",
+          "scale_by": "",
+          "method": "lanczos"
+        }
+      }
+    },
+    {
+      "name": "Preset 4",
+      "settings": {
+        "unet_name": "",
+        "unet_weight_dtype": "default",
+        "clip_name": "",
+        "clip_type": "qwen_image",
+        "clip_device": "default",
+        "vae_name": "",
+        "width": "",
+        "height": "",
+        "batch_size": 1,
+        "steps": "",
+        "cfg": "",
+        "sampler_name": "",
+        "scheduler": "",
+        "denoise": "",
+        "seed": "",
+        "seed_mode": "",
+        "loras": [
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          },
+          {
+            "enabled": false,
+            "lora_name": "",
+            "strength_model": "",
+            "strength_clip": "",
+            "positive_prompt": "",
+            "negative_prompt": ""
+          }
+        ],
+        "upscale": {
+          "enabled": false,
+          "model_name": "",
+          "scale_by": "",
+          "method": "lanczos"
+        }
+      }
+    }
+  ],
+  "run": {
+    "repeat_count": 1,
+    "start_index": 1,
+    "limit": 0,
+    "save_prompts_json": true,
+    "prompts_file": "prompts.json"
+  },
+  "single_image": {
+    "source_mode": "previous",
+    "use_global_positive": false,
+    "use_global_negative": false,
+    "character": "",
+    "outfit": "",
+    "action": "",
+    "angle": "",
+    "background": "",
+    "object": "",
+    "use_action_random_prompt": false,
+    "action_random_index": 1,
+    "use_action_custom_prompt": false
+  }
+}

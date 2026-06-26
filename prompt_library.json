@@ -1,0 +1,128 @@
+{
+  "schema_version": "2.0-single-source",
+  "defaults": {
+    "global_positive": "",
+    "global_negative": "",
+    "identity_consistency": "",
+    "angle": "",
+    "background": "",
+    "include_random_prompt": false,
+    "filename_root": ""
+  },
+  "batch_defaults": {
+    "characters": [],
+    "outfits": [],
+    "actions": [],
+    "objects": []
+  },
+  "characters": {},
+  "outfits": {},
+  "actions": {},
+  "angles": {},
+  "backgrounds": {},
+  "objects": {},
+  "groups": {
+    "characters": {
+      "default": {
+        "name": "Characters",
+        "sort_index": 1
+      }
+    },
+    "outfits": {
+      "default": {
+        "name": "Outfits",
+        "sort_index": 1
+      }
+    },
+    "objects": {
+      "equipment": {
+        "name": "Equipment / Props",
+        "sort_index": 1
+      }
+    },
+    "actions": {
+      "sfw_emotion_action": {
+        "name": "SFW Emotion / Action",
+        "sort_index": 1
+      }
+    },
+    "angles": {
+      "default": {
+        "name": "View",
+        "sort_index": 1
+      }
+    },
+    "backgrounds": {
+      "default": {
+        "name": "Background",
+        "sort_index": 1
+      }
+    }
+  },
+  "loop_presets": [
+    {
+      "name": "Preset 1",
+      "settings": {
+        "characters": [],
+        "outfits": [],
+        "objects": [],
+        "actions": [],
+        "angle": "",
+        "background": "",
+        "use_global_positive": false,
+        "use_global_negative": false,
+        "use_custom_prompt": false,
+        "include_random": false,
+        "random_prompt_mode": "random"
+      }
+    },
+    {
+      "name": "Preset 2",
+      "settings": {
+        "characters": [],
+        "outfits": [],
+        "objects": [],
+        "actions": [],
+        "angle": "",
+        "background": "",
+        "use_global_positive": false,
+        "use_global_negative": false,
+        "use_custom_prompt": false,
+        "include_random": false,
+        "random_prompt_mode": "random"
+      }
+    },
+    {
+      "name": "Preset 3",
+      "settings": {
+        "characters": [],
+        "outfits": [],
+        "objects": [],
+        "actions": [],
+        "angle": "",
+        "background": "",
+        "use_global_positive": false,
+        "use_global_negative": false,
+        "use_custom_prompt": false,
+        "include_random": false,
+        "random_prompt_mode": "random"
+      }
+    },
+    {
+      "name": "Preset 4",
+      "settings": {
+        "characters": [],
+        "outfits": [],
+        "objects": [],
+        "actions": [],
+        "angle": "",
+        "background": "",
+        "use_global_positive": false,
+        "use_global_negative": false,
+        "use_custom_prompt": false,
+        "include_random": false,
+        "random_prompt_mode": "random"
+      }
+    }
+  ]
+}
